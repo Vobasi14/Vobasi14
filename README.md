@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vobasi14
-- 👀 I’m interested in Everything because my brain is empty.
+- 👀 I’m interested in web development and the field of automation.
 - 🌱 I’m currently learning typescript and python
 - 💞️ I’m looking to collaborate on projects that bring money.
 - 📫 How to reach me, DM my twitter @_ovpn
